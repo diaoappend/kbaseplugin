@@ -24,7 +24,7 @@
         <eula-wrap_create-izpack-installer-jar-phase></eula-wrap_create-izpack-installer-jar-phase>
         <pdi.version>8.0.0.0-28</pdi.version>
         <eula-wrap_attach-dist-phase></eula-wrap_attach-dist-phase>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencyManagement>
